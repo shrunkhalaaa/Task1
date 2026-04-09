@@ -1,2 +1,2 @@
 # Task1
-this is my repository
+Created a basic responsive website by using HTML to structure the page with a header, hero section, and footer, and CSS to style and arrange everything visually. I applied Flexbox to properly align elements like the navigation and content, and used media queries to make the layout adjust for smaller screens like mobile devices. Finally, I tested a work using Live Server to see real-time changes. Overall, i built a simple, clean, and mobile-friendly landing page.
